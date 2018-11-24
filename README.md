@@ -1,0 +1,2 @@
+# SciTechCoin
+SciTech Coin
